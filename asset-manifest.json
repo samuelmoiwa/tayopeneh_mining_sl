@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tayopeneh_mining_sl/static/css/main.e3ec864c.css",
-    "main.js": "/tayopeneh_mining_sl/static/js/main.f076a038.js",
+    "main.js": "/tayopeneh_mining_sl/static/js/main.2aee9713.js",
     "static/media/blog2.jpg": "/tayopeneh_mining_sl/static/media/blog2.bfde11f0f39c6a8e15b8.jpg",
     "static/media/about_us_component.jpg": "/tayopeneh_mining_sl/static/media/about_us_component.85c0eb31fecb52c8743b.jpg",
     "static/media/carousel_3.jpg": "/tayopeneh_mining_sl/static/media/carousel_3.7bf34a0af0a62b5d1f41.jpg",
@@ -22,8 +22,9 @@
     "static/media/community_engagement.png": "/tayopeneh_mining_sl/static/media/community_engagement.aa9a6aea161c597c43b3.png",
     "static/media/research_development.png": "/tayopeneh_mining_sl/static/media/research_development.4fa2f36605f440e511f9.png",
     "static/media/enviromental_stewardship.png": "/tayopeneh_mining_sl/static/media/enviromental_stewardship.af292bae8296b4d50b8d.png",
-    "static/media/moiwa.png": "/tayopeneh_mining_sl/static/media/moiwa.197760cf9d3f8f1cf4af.png",
+    "static/media/alice.png": "/tayopeneh_mining_sl/static/media/alice.deff0a04742d1e4ef1f3.png",
     "static/media/mohamed_kamara.png": "/tayopeneh_mining_sl/static/media/mohamed_kamara.cc6c100dfc47638be24f.png",
+    "static/media/hassan.png": "/tayopeneh_mining_sl/static/media/hassan.19a3eb284b33bbd31b24.png",
     "static/media/mining_process.png": "/tayopeneh_mining_sl/static/media/mining_process.db7daf21fae239aac583.png",
     "static/media/mining_processing.png": "/tayopeneh_mining_sl/static/media/mining_processing.e220e730a4ecb002aef5.png",
     "static/media/exploration.png": "/tayopeneh_mining_sl/static/media/exploration.3afb9e209f88f86e86c0.png",
@@ -37,10 +38,10 @@
     "static/media/icon_Facebook.svg": "/tayopeneh_mining_sl/static/media/icon_Facebook.6a69e17929853d8eeebf8d1975c4bb83.svg",
     "static/media/icon_mail.svg": "/tayopeneh_mining_sl/static/media/icon_mail.99e42d334d9db8654dd34a3d205fc343.svg",
     "main.e3ec864c.css.map": "/tayopeneh_mining_sl/static/css/main.e3ec864c.css.map",
-    "main.f076a038.js.map": "/tayopeneh_mining_sl/static/js/main.f076a038.js.map"
+    "main.2aee9713.js.map": "/tayopeneh_mining_sl/static/js/main.2aee9713.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ec864c.css",
-    "static/js/main.f076a038.js"
+    "static/js/main.2aee9713.js"
   ]
 }
