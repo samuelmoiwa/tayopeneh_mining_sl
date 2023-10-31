@@ -8,7 +8,7 @@ import feture_project from '../../image/feture_projects.jpg'
 
 const DynamicCard = ({ id,top_title, imageSrc, title, details, ButtonLink }) => {
   return (
-    <div className="max-w-sm rounded overflow-hidden shadow-lg mt-10">
+    <div className="max-w-sm rounded overflow-hidden shadow-lg mt-10 bg-white">
         <div className="font-bold text-xl mb-2 ml-3">{top_title}</div>
         <div className='bg-orange-500 w-16 h-2 mb-4'></div>
       <img src={imageSrc} alt={title} className="w-full h-64" />
@@ -60,8 +60,8 @@ const AboutUsCard = () => {
   ];
 
   return (
-    <div className='flex items-center justify-center w-screen '>
-      <div className="grid sm:grid-cols-3 gap-4 p-4 w-9/12">
+    <div className='flex items-center justify-center w-screen'>
+      <div className="grid sm:grid-cols-3 gap-4 p-4 sm:w-9/12">
         {cardData.map((card) => (
           <DynamicCard
             key={card.id}
