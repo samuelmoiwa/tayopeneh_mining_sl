@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tayopeneh_mining_sl/static/css/main.e3ec864c.css",
-    "main.js": "/tayopeneh_mining_sl/static/js/main.2aee9713.js",
+    "main.css": "/tayopeneh_mining_sl/static/css/main.6932adf5.css",
+    "main.js": "/tayopeneh_mining_sl/static/js/main.9abf8f13.js",
     "static/media/blog2.jpg": "/tayopeneh_mining_sl/static/media/blog2.bfde11f0f39c6a8e15b8.jpg",
     "static/media/about_us_component.jpg": "/tayopeneh_mining_sl/static/media/about_us_component.85c0eb31fecb52c8743b.jpg",
     "static/media/carousel_3.jpg": "/tayopeneh_mining_sl/static/media/carousel_3.7bf34a0af0a62b5d1f41.jpg",
@@ -37,11 +37,11 @@
     "static/media/icons_Instagram.svg": "/tayopeneh_mining_sl/static/media/icons_Instagram.ffc69cf288ef412598c675413fcf1d4b.svg",
     "static/media/icon_Facebook.svg": "/tayopeneh_mining_sl/static/media/icon_Facebook.6a69e17929853d8eeebf8d1975c4bb83.svg",
     "static/media/icon_mail.svg": "/tayopeneh_mining_sl/static/media/icon_mail.99e42d334d9db8654dd34a3d205fc343.svg",
-    "main.e3ec864c.css.map": "/tayopeneh_mining_sl/static/css/main.e3ec864c.css.map",
-    "main.2aee9713.js.map": "/tayopeneh_mining_sl/static/js/main.2aee9713.js.map"
+    "main.6932adf5.css.map": "/tayopeneh_mining_sl/static/css/main.6932adf5.css.map",
+    "main.9abf8f13.js.map": "/tayopeneh_mining_sl/static/js/main.9abf8f13.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3ec864c.css",
-    "static/js/main.2aee9713.js"
+    "static/css/main.6932adf5.css",
+    "static/js/main.9abf8f13.js"
   ]
 }
