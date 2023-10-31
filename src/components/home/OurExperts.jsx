@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 import mohamed from '../../image/mohamed_kamara.png';
-import chinedum from '../../image/moiwa.png'
-import judah from '../../image/moiwa.png'
+import hassan from '../../image/hassan.png'
+import alice from '../../image/alice.png'
 import phone from '../../asset/icon_phone.svg';
 import mailBox from '../../asset/icon_mail.svg';
 
@@ -25,27 +25,27 @@ const consultants = [
   {
     button: 'Environmental Compliance Manager',
     id: 2,
-    name: 'Chinedum Roland Eke',
+    name: 'Hassan Koroma',
     specialization: 'Environmental Compliance Specialist',
     description:
       `For inquiries related to environmental sustainability, compliance with environmental regulations, or initiatives
-      to minimize the ecological footprint of our mining operations, reach out to Chinedum Roland Eke, our Environmental
+      to minimize the ecological footprint of our mining operations, reach out to Hassan Koroma, our Environmental
       Compliance Manager.`,
     phone: '+232 00 000 000',
     email: 'tax@demolink.com',
-    image: chinedum,
+    image: hassan,
   },
   {
     button: 'Investor Relations Director',
     id: 3,
-    name: 'Judah Dore',
+    name: 'Alice kamanda',
     specialization: 'Investor Relations Specialist',
     description:
       `If you're an investor or shareholder interested in Tayopeneh's financial performance, corporate strategy, or
-      have questions about our stock, Judah Dore, our Investor Relations Director, is available to assist you.`,
+      have questions about our stock, Alice kamanda, our Investor Relations Director, is available to assist you.`,
     phone: '+232 00 000 000',
     email: 'tax@demolink.com',
-    image: judah,
+    image: alice,
   },
   // Add more consultants here
 ];
