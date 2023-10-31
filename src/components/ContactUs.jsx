@@ -78,11 +78,11 @@ function ContactUs() {
   return (
     <>
       <section class="bg-white border-b border-t py-8" id="services">
-        <div class="container max-w-5xl mx-auto m-8">
+        <div class="sm:max-w-5xl sm:mx-auto w-full">
           <div class="flex flex-wrap flex-col sm:flex-row" data-aos="fade-up">
-            <div class="w-full sm:w-1/2 p-6">
+            <div class="w-full sm:w-1/2 p-2">
               <div class="text-gray-600 mb-8 text-justify">
-                <h1 className="text-4xl font-bold leading-none sm:text-4xl text-purple-header">
+                <h1 className="text-3xl font-bold leading-none sm:text-4xl text-purple-header">
                   READY <br />
                   <span className="text-orange-500"> FOR </span>
                   PARTNERSHIP?
@@ -211,26 +211,26 @@ function ContactUs() {
                 </div>
                 <div className="flex items-center justify-center">
                 <button
-  className={`${
-    loading
-      ? "bg-orange-500 cursor-not-allowed"
-      : "bg-orange-500 transform hover:scale-110 transition-transform duration-300"
-  } text-white font-bold py-2 px-4 rounded-lg flex items-center focus:outline-none`}
-  type="submit"
-  disabled={loading}
->
-  {loading ? (
-    <>
-      <span className="mr-2">Loading</span>
-      <AiOutlineLoading className="animate-spin h-5 w-5 text-white" />
-    </>
-  ) : (
-    <>
-      <span>Submit</span>
-      <IoIosSend className="ml-2 h-5 w-5" />
-    </>
-  )}
-</button>
+                  className={`${
+                    loading
+                      ? "bg-orange-500 cursor-not-allowed"
+                      : "bg-orange-500 transform hover:scale-110 transition-transform duration-300"
+                  } text-white font-bold py-2 px-4 rounded-lg flex items-center focus:outline-none`}
+                  type="submit"
+                  disabled={loading}
+                >
+                  {loading ? (
+                    <>
+                      <span className="mr-2">Loading</span>
+                      <AiOutlineLoading className="animate-spin h-5 w-5 text-white" />
+                    </>
+                  ) : (
+                    <>
+                      <span>Submit</span>
+                      <IoIosSend className="ml-2 h-5 w-5" />
+                    </>
+                  )}
+                </button>
                 </div>
                 <input type="hidden" value={loading} {...register("loading")} />
 
@@ -253,18 +253,12 @@ function ContactUs() {
             </div>
 
             <div
-              class="w-full sm:w-1/2 p-6 sm:order-first flex-col
+              class="w-full sm:w-1/2 p-2 sm:order-first flex-col
               flex justify-center item-center"
             >
 
               <Lottie options={animationOptions} height={400} width={400} />
 
-              <div
-                className="flex space-y-0 sm:items-center
-                  sm:flex-row sm:space-y-0 space-x-4 mt-6
-                  sm:space-x-4 lg:justify-center md:items-center"
-              >
-              </div>
             </div>
           </div>
         </div>
