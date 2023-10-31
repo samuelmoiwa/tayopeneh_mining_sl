@@ -51,7 +51,7 @@ const HeroCarousel = () => {
           style={{ backgroundImage: `url(${carousel_1})` }}
         >
 
-          <h1 className='font-extrabold sm:text-9xl text-7xl sm:ml-20'>
+          <h1 className='font-extrabold sm:text-9xl text-5xl sm:ml-20'>
             TRUSTED <br/> MINING <be />  INDUSTRY <br /> LEADERS
           </h1>
 
@@ -73,7 +73,7 @@ const HeroCarousel = () => {
           style={{ backgroundImage: `url(${carousel_2})` }}
         >
 
-          <h1 className='font-extrabold sm:text-9xl text-7xl sm:ml-20'>
+          <h1 className='font-extrabold sm:text-9xl text-5xl sm:ml-20'>
             CUTTING <br/> EDGE <be /><br /> TECHNOLOGIES
           </h1>
 
@@ -95,7 +95,7 @@ const HeroCarousel = () => {
           style={{ backgroundImage: `url(${carousel_3})` }}
         >
 
-          <h1 className='font-extrabold sm:text-9xl text-7xl sm:ml-20'>
+          <h1 className='font-extrabold sm:text-9xl text-5xl sm:ml-20'>
             NATURAL <br/> RESOURCE <be /> <br/>  FOR YOUR <br /> NEEDS
           </h1>
 
@@ -116,7 +116,7 @@ const HeroCarousel = () => {
           bg-cover bg-center bg-no-repeat"
           style={{ backgroundImage: `url(${carousel_4})` }}
         >
-          <h1 className='font-extrabold sm:text-9xl text-7xl sm:ml-20'>
+          <h1 className='font-extrabold sm:text-9xl text-5xl sm:ml-20'>
             PARTNER <br/> WITH TAYOPENEH<be /> <br/>  MINING <br /> S/L LIMITED
           </h1>
 
