@@ -28,7 +28,7 @@ const Home = () => {
     <div>
       <HeroCarousel />
       <AboutUsCard />
-      {/* <AbutUs /> */}
+      <AbutUs />
       <OurExperts />
       <MeetTheCEO />
       <section id='partner'>
