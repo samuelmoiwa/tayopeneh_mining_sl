@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom'
 const AbutUs = () => {
   return (
     <>
-         <section class="bg-gray-100 border-b py-8 mt-8" id="about">
-        <div class="container max-w-5xl mx-auto m-8">
+         <section class="bg-gray-100 border-b py-8 mt-8 m-0" id="about">
+        <div class="max-w-5xl mx-auto">
 
           <div
             class="flex flex-wrap flex-col-reverse sm:flex-row"
