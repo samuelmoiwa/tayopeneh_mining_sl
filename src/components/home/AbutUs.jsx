@@ -34,7 +34,7 @@ const AbutUs = () => {
               </div>
 
               <p class="text-gray-600 mb-8 text-justify">
-                  With over 60 years of experience, our mining company is now a partner for numerous industrial
+                  With over 20 years of experience, our mining company is now a partner for numerous industrial
                   companies and enterprises all over the world.
                 <br />
                 <br />
@@ -75,7 +75,7 @@ const AbutUs = () => {
                   headquartered in the vibrant city of Freetown.
                 <br />
                 <br />
-                  Our dedicated team of over 20,680 employees and contractors passionately drives our operations,
+                  Our dedicated team of over 2,680 employees and contractors passionately drives our operations,
                   primarily located in Sierra Leone's key regions of Kono, Kenema, Bo, and Moyamba.
                 <br />
                 <br />
