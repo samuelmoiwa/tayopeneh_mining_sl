@@ -17,7 +17,7 @@ const consultants = [
       description:
         `Tayopeneh is a globally renowned mining company, excelling in the exploration and production of gold, diamonds,
          and minerals. Since our inception in 1990 and subsequent public listing in 1995, we've been headquartered in
-         the vibrant city of Freetown. Our dedicated team of over 20,680 employees and contractors passionately drives
+         the vibrant city of Freetown. Our dedicated team of over 2,680 employees and contractors passionately drives
          our operations, primarily located in Sierra Leone's key regions of Kono, Kenema, Bo, and Moyamba.
         `,
       image: engineers,
