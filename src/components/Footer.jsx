@@ -70,7 +70,7 @@ function Footer() {
         <hr className="border-gray-600 my-6" />
         <div className="text-center text-gray-500 text-sm">
           &copy; {new Date().getFullYear()} Tayopeneh Mining S/L Limited. All rights reserved.
-          ~ Design By <span className='hover:text-gray-800'> <a href='#'
+          ~ Design By <span className='hover:text-gray-800'> <a href='https://samuelmoiwa.github.io/moiwa-portfolio/'
           target="_blank" rel="noopener noreferrer"> Ing. Abduali Samuel Moiwa </a></span>
         </div>
       </div>
