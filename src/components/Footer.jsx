@@ -19,8 +19,8 @@ function Footer() {
             <p className="text-gray-600 mt-2">
               Address: 123 Street, Freetown, Sierra Leone
             </p>
-            <p className="text-gray-600 mt-1">Phone: +1 00 000 000</p>
-            <p className="text-gray-600 mt-1">Email: info@sana_mining.com</p>
+            <p className="text-gray-600 mt-1">Phone: +232 72 331 439</p>
+            <p className="text-gray-600 mt-1">Email: info@tayopeneh_mining.com</p>
           </div>
           <div className="mt-4 md:mt-0">
             <h4 className="text-gray-800 uppercase font-semibold">Social Media</h4>
@@ -58,7 +58,7 @@ function Footer() {
 
             <a
                 rel="phone"
-                href="tel: +23279000000"
+                href="tel: +23272331439"
                 className="px-1 py-2 flex justify-center
                 transform hover:scale-110 transition-transform duration-300"
             >
@@ -69,7 +69,7 @@ function Footer() {
         </div>
         <hr className="border-gray-600 my-6" />
         <div className="text-center text-gray-500 text-sm">
-          &copy; {new Date().getFullYear()} Sana Mining S/L Limited. All rights reserved.
+          &copy; {new Date().getFullYear()} Tayopeneh Mining S/L Limited. All rights reserved.
           ~ Design By <span className='hover:text-gray-800'> <a href='#'
           target="_blank" rel="noopener noreferrer"> Ing. Abduali Samuel Moiwa </a></span>
         </div>
