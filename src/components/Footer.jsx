@@ -58,7 +58,7 @@ function Footer() {
 
             <a
                 rel="phone"
-                href="tel: +23272331439"
+                href="#"
                 className="px-1 py-2 flex justify-center
                 transform hover:scale-110 transition-transform duration-300"
             >
