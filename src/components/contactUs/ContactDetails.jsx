@@ -25,7 +25,7 @@ const ContactDetails = () => {
          </div>
 
            <p class="text-gray-600 mb-8 text-justify">
-            Address: example address | Phone: +233 79 000 000 | whatsapp: +232 79 000 000  | Email: info@tayopeneh.com
+            Address: example address | Phone: +232 72 331 439 | whatsapp: +224 611 87 95 91  | Email: info@tayopeneh.com
 
          </p>
 
