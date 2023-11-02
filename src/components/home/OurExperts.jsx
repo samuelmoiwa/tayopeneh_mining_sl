@@ -18,8 +18,8 @@ const consultants = [
       Mohamed Kamara, our Chief Geologist, is the expert you need. With over two decades of experience in the field,
       Mohamed's knowledge and insights are truly invaluable. He's the go-to person for all your geological inquiries
       and discussions about mining opportunities.`,
-    phone: '+232 00 000 000',
-    email: 'tax@demolink.com',
+    phone: '+232 +232 72 448 158',
+    email: 'mkamara@gmail.com',
     image: mohamed,
   },
   {
@@ -31,8 +31,8 @@ const consultants = [
       `For inquiries related to environmental sustainability, compliance with environmental regulations, or initiatives
       to minimize the ecological footprint of our mining operations, reach out to Hassan Koroma, our Environmental
       Compliance Manager.`,
-    phone: '+232 00 000 000',
-    email: 'tax@demolink.com',
+    phone: '+224 611 87 95 91',
+    email: 'hkoroma@gmail.com',
     image: hassan,
   },
   {
@@ -44,7 +44,7 @@ const consultants = [
       `If you're an investor or shareholder interested in Tayopeneh's financial performance, corporate strategy, or
       have questions about our stock, Alice kamanda, our Investor Relations Director, is available to assist you.`,
     phone: '+232 00 000 000',
-    email: 'tax@demolink.com',
+    email: 'akamanda@gmail.com',
     image: alice,
   },
   // Add more consultants here
